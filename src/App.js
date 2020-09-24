@@ -3,8 +3,20 @@ import Header from './Header';
 
 
 function App() {
+  let counter = 0;
+  function increment (){
+    counter += 1;
+    console.log(counter);
+  }
   return(
-  <Header title="Rafael Matos"/>
+    <div>
+  <Header>
+    Contador:0
+  </Header>
+  <button onClick={increment}>
+    Incrementar
+  </button>
+  </div>
   );
 }
 
