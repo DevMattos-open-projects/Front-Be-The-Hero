@@ -32,6 +32,7 @@
     border: 1px solid #dcdce6;
     background: transparent;
     margin-left: 16px;
+    transition: border-color 0.2s;
 }
 
 .profile-container header button:hover{
