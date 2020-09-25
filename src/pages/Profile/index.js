@@ -30,9 +30,9 @@ return (
                     <FiTrash2 size={20} color="#a8a8b3"/>
                 </button>
             </li>
-        </ul>
+       
 
-        <ul>
+       
             <li>
                 <strong>CASO:</strong>
                 <p>Caso Teste</p>
@@ -44,9 +44,7 @@ return (
                     <FiTrash2 size={20} color="#a8a8b3"/>
                 </button>
             </li>
-        </ul>
-
-        <ul>
+       
             <li>
                 <strong>CASO:</strong>
                 <p>Caso Teste</p>
@@ -58,9 +56,7 @@ return (
                     <FiTrash2 size={20} color="#a8a8b3"/>
                 </button>
             </li>
-        </ul>
-
-        <ul>
+        
             <li>
                 <strong>CASO:</strong>
                 <p>Caso Teste</p>
@@ -72,22 +68,8 @@ return (
                     <FiTrash2 size={20} color="#a8a8b3"/>
                 </button>
             </li>
+        
         </ul>
-
-        <ul>
-            <li>
-                <strong>CASO:</strong>
-                <p>Caso Teste</p>
-
-                <strong>VALOR:</strong>
-                <p>R$120,00</p>
-
-                <button type="button">
-                    <FiTrash2 size={20} color="#a8a8b3"/>
-                </button>
-            </li>
-        </ul>
-
 
     </div>
 )
