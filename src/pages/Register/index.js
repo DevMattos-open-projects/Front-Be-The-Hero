@@ -47,7 +47,7 @@ try {
               <p>Faça seu Cadastro, entre na plataforma e ajude pessoas a encontrarem os casos da sua ONG.</p>
               <Link className="back-link" to="/">
                       <FiArrowLeft size={16} color="#E02041"/>
-                      Não Tenho Cadastro
+                      Tenho ID
                   </Link>
               </section>
 
