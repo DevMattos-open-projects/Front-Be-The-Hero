@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="src/assets/heroes.png" alt="heroes" height="250"> </p>
 
-## Telas
+## Screens
 
 <p align="center">
     <img alt="" title="" src="telas/Login.png">
