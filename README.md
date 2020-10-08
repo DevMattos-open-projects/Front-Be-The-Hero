@@ -2,9 +2,9 @@
     <img alt="" title="" src="src/assets/logo.svg">
 </h1>
 
-<h2 align="center"> AApplication to connect NGOs and other institutions to people who are available for help </h2>
+<h2 align="center"> Application to connect NGOs and other institutions to people who are available for help </h2>
 
-<h3 align="center"> Criada com <img src="imgs/react.png" alt="react" height="18"> React </h3>
+<h3 align="center"> Criada com <img src="telas/react.svg" alt="react" height="18"> React </h3>
 
 <p align="center"> <img src="src/assets/heroes.png" alt="heroes" height="250"> </p>
 
